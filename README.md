@@ -41,3 +41,6 @@ Start using Grok3 to Notion today and keep your AI conversations organized! Whet
 <p align="center">
     <em>Make every AI conversation a part of your knowledge base</em>
 </p>
+
+![Grok to Notion](grok2notion.png)
+![Grok to Notion](batch-grok2notion.png)
